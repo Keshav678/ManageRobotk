@@ -1,5 +1,5 @@
 {
-       "name": "Rocks Alexa Official Bot",
+       "name": "Aliza Robot",
       "description": "A Powerful And Advanced Telegram Group Management Bot By Asad Ali",
       "logo": "https://telegra.ph/file/ed0dc3f88422d69d8dcf9.jpg",
       "keywords": [
@@ -9,7 +9,7 @@
          "manager",
          "Alexa"
       ],   
-   "repository": "https://github.com/jankarikiduniya/AlexaManagement3.0",
+   "repository": "https://Osmolegend",
    "addons": [
       {
          "options": {
